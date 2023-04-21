@@ -1,0 +1,22 @@
+ADVANCE EXCEL ASSIGNMENT 1
+
+Ques 1: What do you means by Cells in Excel Sheet?
+Ans 1 : Cells are the importent part of Excel Worksheet. Excel Worksheet Contains Cells to Store the information in them. you can Enter your Content or your data into the cells. cells are the Building Blocks of the Excel Worksheet. There are 17 Billion Cells in an Excel Worksheet.
+
+Ques2: How can you restrict someone from copying a cell from your worksheet?
+Ans: Use 'Protect Sheet' Option to Disable Copy and Paste in Excel without Macros. To prevent the users from modification of your excel worksheet Microsoft Excel provides an option named “Protect Sheet”. By using this option we can disable the copy and paste in excel without macros.
+
+Ques3. How to move or copy the worksheet into another workbook?
+Ans: Click the sheet that you want to copy. On the Edit menu, click Sheet > Move or Copy Sheet. On the To book menu, click the workbook that you want to copy the sheet to. Tip: To create a new workbook that contains the moved sheet, click new book.
+
+Ques4. Which key is used as a shortcut for opening a new window document?
+Ans: Ctrl+N
+
+Ques 5. What are the things that we can notice after opening the Excel interface?
+Ans: The interface components of Excel include the Quick Access Toolbar, Ribbon, Name Box, Formula Quick Menu, Formula Bar, Status Bar, Worksheet View Options, Zoom Slider Control, and the Zoom Percentage Indicator.
+
+Ques 6. When to use a relative cell reference in excel?
+Ans: a cell reference is a relative reference, which means that the reference is relative to the location of the cell.
+1. Relative Reference
+2. Absolute Reference
+3. Mix Reference
